@@ -1,22 +1,18 @@
-Matematica Discreta - Exercicio 12
---------------------------------------
-Repositorio do exercicio 12 da disciplina de Matematica Discreta da Escola Politecnica de Pernambuco - UPE
-
-Autores
+Authors
 ======================================
 
 Hugo de Albuquerque Fonseca <hugoalbuquerque0@gmail.com> <br />
 Otacilio Saraiva Maia Neto <otacilio.n97@gmail.com>
 
-Objetivo
+Objective
 ======================================
 
-Este exercicio tem como objetivo simular uma rede de Petri com paralelismo e imprimi-la utilizando a biblioteca grafica Allegro.
+This exercise aims to simulate a Petri net with parallelism and print it using the graphic library Allegro.
 
-Entrada de texto
+Text input
 ======================================
 
-Para simular a Rede de Petri utilizando este codigo, necessita-se alimenta-lo com um arquivo de entrada. O arquivo nao deve conter nenhum texto, e deve ser formatado _exatamente_ como proposto na tabela abaixo:
+To simulate the Petri Net using this code, it is necessary to feed it with an input file. The file must not contain any text, and must be formatted _exactly_ as proposed in the table below:
 
 Linha          | Descricao
 -------------- | --------------------------------------------
